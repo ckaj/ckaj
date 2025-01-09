@@ -4,7 +4,9 @@
 Rád pomáhám, když vím jak, tedy...
 
 Discord: @itscky
+
 Instagram: @its.cky
+
 YouTube: https://youtube.com/@itscky/
 
 Čus!

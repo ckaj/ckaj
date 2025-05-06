@@ -1,6 +1,6 @@
 - 👋 Ahoj, já jsem CKY.
-- 👀 Baví mě "programovat" & hrát Minecraft.
-- 🌱 Aktuálně se učím JavaScript a k tomu i Javu. Umím HTML, CSS, jakž takž JavaScript a mírně Javu. Rád se hrabu v Minecraft serverech a mám rád obecně technické záležitosti. Rád pomáhám, když vím jak, tedy...
+- 👀 Baví mě programovat & hrát Minecraft.
+- 🌱 Umím HTML, CSS, jakž takž JavaScript a mírně Javu. Rád se hrabu v Minecraft serverech a mám rád obecně technické záležitosti. Rád pomáhám, když vím jak, tedy...
 
 Discord: @itscky
 
